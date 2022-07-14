@@ -1,4 +1,4 @@
-# Consumer Loan Assistant Project Detail
+# Consumer Loan Assistant Project (Financial Application Development)
 ![image](https://user-images.githubusercontent.com/86942586/178886452-07c7587c-d466-4e58-9364-9cbfe9f8fd78.png) 
 ![image](https://user-images.githubusercontent.com/86942586/178886769-50a3669b-8b7a-486b-b488-47463d6b1463.png)
 
